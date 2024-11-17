@@ -1,0 +1,10 @@
+{
+  "estudiantes": [
+    {
+      "nombre": "Maria",
+      "apellido": "Mendez",
+      "edad": 20,
+      "carrera": "Arquitectura"
+    }
+  ]
+}
